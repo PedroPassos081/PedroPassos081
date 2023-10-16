@@ -15,7 +15,7 @@
 
 </div><br/>
 
-Apaixonado por tecnologia e busco pela minha primeira experiência na área.
+
 
 ## Meu contato 
 - pedro.passos081@gmail.com
