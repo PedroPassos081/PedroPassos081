@@ -1,6 +1,6 @@
 ### Olá! eu sou Pedro Passos 
 
-<p>Sou estudante de Análise de Sistemas, meu foco está no desenvolvimento front-end, Atualmente, estou muito focado em estudar frameworks que devem me ajudar a construir 
+<p>Sou formado em Análise e desenvolvimento de Sistemas e atualmente estou cursando pós graduação em desenvolvimento full stack na FIAP, meu foco está no desenvolvimento, Atualmente, estou muito focado em estudar frameworks que devem me ajudar a construir 
   aplicações web melhores do que as que construo hoje em dia, tecnologias como React e Node.
 </p>
 
