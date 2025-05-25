@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Pedro Passos
+# Pedro Passos
 
 **`Desenvolvedor FullStack`**
 
