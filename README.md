@@ -6,7 +6,7 @@ Me chamo Pedro Passos. Sou formado em Análise e Desenvolvimento de Sistemas e a
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
