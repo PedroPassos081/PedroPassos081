@@ -1,6 +1,6 @@
 # Pedro Passos
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Front-end`**
 
 Olá! Me chamo Pedro Passos. Sou formado em Análise e Desenvolvimento de Sistemas, com pós-graduação em Desenvolvimento Full-Stack concluída pela FIAP.
 
