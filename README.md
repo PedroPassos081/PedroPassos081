@@ -1,6 +1,6 @@
 # Pedro Passos
 
-**`Desenvolvedor Front-end`**
+**`Front-end Developer`**
 
 Hi there! I'm Pedro Passos. I hold a degree in Systems Analysis and Development and a postgraduate degree in Full Stack Development from FIAP.
 
