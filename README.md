@@ -6,7 +6,7 @@ Hi there! I'm Pedro Passos. I hold a degree in Systems Analysis and Development 
 
 I am constantly upgrading my skills and seeking new challenges in software development. I am passionate about learning and applying my knowledge to build robust, efficient, and innovative solutions.
 
-## Linguagens e Tecnologias
+## Tech Stack
 
 <div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
@@ -25,7 +25,7 @@ I am constantly upgrading my skills and seeking new challenges in software devel
 </div>
 
 
-##  Contato
+##  Contact
 
 <div align="left">
   <a href="pedro.passos081@gmail.com" target="_blank">
@@ -36,7 +36,7 @@ I am constantly upgrading my skills and seeking new challenges in software devel
   
 </div>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
