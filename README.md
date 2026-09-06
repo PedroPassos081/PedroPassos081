@@ -2,11 +2,6 @@
 
 **`Desenvolvedor Front-end`**
 
-Olá! Me chamo Pedro Passos. Sou formado em Análise e Desenvolvimento de Sistemas, com pós-graduação em Desenvolvimento Full-Stack concluída pela FIAP.
-
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de desenvolvimento. Tenho paixão por aprender e aplicar meus conhecimentos para criar soluções robustas, eficientes e inovadoras.
-
-
 Hi there! I'm Pedro Passos. I hold a degree in Systems Analysis and Development and a postgraduate degree in Full Stack Development from FIAP.
 
 I am constantly upgrading my skills and seeking new challenges in software development. I am passionate about learning and applying my knowledge to build robust, efficient, and innovative solutions.
